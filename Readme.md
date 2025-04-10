@@ -60,36 +60,45 @@ A React-based food ordering system with admin dashboard capabilities, featuring 
 
 1. Clone the repository:
 
-   ```
-   bash
+   ```bash
    git clone https://github.com/Islam-Tarek/FoodMenu.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd Backend
-   npm install
-
    cd Frontend
    npm install
    ```
 
-3. Start JSON Server (port 3000):
-
-   ```bash
-   cd Backend
-   npx json-server db.json
-   ```
-
-4. Start React server (port 5173):
+3. Start React server (port 5173):
 
    ```bash
    cd Frontend
    npm run dev
    ```
 
-   Demo
+4. JSON Server (for data):
+
+   - Data sample:
+
+   ```bash
+   {
+   "menu": [
+    {
+      "id": "1", "name": "Burger -  XXL", "price": "100",
+      "count": 0, "isInCart": false, "category": "1"
+    },{
+      "id": "2",  "name": "Fries -  L",  "price": "60",
+      "count": 0,  "isInCart": false, "category": "2"
+    }],
+
+    "categories": [
+    {"id": "1",  "name": "Burger"},
+    {"id": "2",  "name": "Fries" },
+    { "id": "3", "name": "Water"}
+   ]}
+   ```
 
 ## 🎬 Demo
 
