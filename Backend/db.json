@@ -1,0 +1,138 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Burger -  XXL",
+      "price": "100",
+      "count": 0,
+      "isInCart": false,
+      "category": "1"
+    },
+    {
+      "id": "2",
+      "name": "Fries -  L",
+      "price": "60",
+      "count": 0,
+      "isInCart": false,
+      "category": "2"
+    },
+    {
+      "id": "3",
+      "name": "Water -  XXXL",
+      "price": "30",
+      "count": 0,
+      "isInCart": false,
+      "category": "3"
+    },
+    {
+      "id": "4",
+      "name": "Burger -  XL",
+      "price": "80",
+      "count": 0,
+      "isInCart": false,
+      "category": "1"
+    },
+    {
+      "id": "5",
+      "name": "Fries -  M",
+      "price": "50",
+      "count": 0,
+      "isInCart": false,
+      "category": "2"
+    },
+    {
+      "id": "6",
+      "name": "Water -  XXL",
+      "price": "25",
+      "count": 0,
+      "isInCart": false,
+      "category": "3"
+    },
+    {
+      "id": "7",
+      "name": "Burger -  L",
+      "price": "60",
+      "count": 0,
+      "isInCart": false,
+      "category": "1"
+    },
+    {
+      "id": "8",
+      "name": "Fries -  S",
+      "price": "40",
+      "count": 0,
+      "isInCart": false,
+      "category": "2"
+    },
+    {
+      "id": "9",
+      "name": "Water -  XL",
+      "price": "20",
+      "count": 0,
+      "isInCart": false,
+      "category": "3"
+    },
+    {
+      "id": "10",
+      "name": "Water -  L",
+      "price": "15",
+      "count": 0,
+      "isInCart": false,
+      "category": "3"
+    },
+    {
+      "id": "11",
+      "name": "Water -  M",
+      "price": "10",
+      "count": 0,
+      "isInCart": false,
+      "category": "3"
+    },
+    {
+      "id": "12",
+      "name": "Water -  S",
+      "price": "5",
+      "count": 0,
+      "isInCart": false,
+      "category": "3"
+    },
+    {
+      "id": "13",
+      "name": "Burger -  M",
+      "price": "40",
+      "count": 0,
+      "isInCart": false,
+      "category": "1"
+    },
+    {
+      "id": "14",
+      "name": "Burger -  S",
+      "price": "20",
+      "count": 0,
+      "isInCart": false,
+      "category": "1"
+    },
+    {
+      "id": "e5cf",
+      "name": "WaterXYZ",
+      "price": "20",
+      "category": "3",
+      "count": 0,
+      "isInCart": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Burger"
+    },
+    {
+      "id": "2",
+      "name": "Fries"
+    },
+    {
+      "id": "3",
+      "name": "Water"
+    }
+  ]
+}
