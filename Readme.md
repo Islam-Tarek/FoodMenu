@@ -93,4 +93,4 @@ A React-based food ordering system with admin dashboard capabilities, featuring 
 
 ## 🎬 Demo
 
-DEMO ![Demo](https://drive.google.com/uc?export=view&id=1RxfHWFffF2oLk9-JSjIxNGMRi_Iyvwcv)
+DEMO [Demo](https://drive.google.com/file/d/1RxfHWFffF2oLk9-JSjIxNGMRi_Iyvwcv/view?usp=drive_link)
