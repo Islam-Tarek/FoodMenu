@@ -40,7 +40,7 @@ A React-based food ordering system with admin dashboard capabilities, featuring 
 
    ![Cart](https://drive.google.com/uc?export=view&id=17xJ7o9H8vWXcW3PjjbG6FVhd-pvmS6r0)
 
-3. **Admin Product Table**
+3. **Admin Products Table**
 
    ![Admin View](https://drive.google.com/uc?export=view&id=1p_aBtJ2LnleohchnBtKQHrFf16ORFRQu)
 
